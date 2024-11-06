@@ -1,0 +1,1 @@
+console.log (`Hellow My name Is Salmanul Faris,`, `I am from Ramanattukara Calicut,`, `and I'am`, 23);
